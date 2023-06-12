@@ -356,3 +356,11 @@ ml-del/ch08/word2vec-nlp-tutorial/labeledTrainData.tsv/labeledTrainData.tsv
 ml-del/src/6장/6-2_PCA.ipynb
 ml-del/src/6장/6-3_LDA(Linear Discriminant Analysis).ipynb
 ml-del/src/6장/6-4_6_5_SVD & NMF.ipynb
+ml-del/ch08/8.8 문서 유사도.ipynb
+ml-del/ch08/8.9 한글 텍스트 처리.ipynb
+.gitignore
+.gitignore
+.gitignore
+ml-del/ch08/ratings_train.txt
+ml-del/ch08/ratings_test.txt
+ml-del/ch08/ratings.txt
